@@ -52,8 +52,6 @@ udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://torrent.bowed.net:8081/announce
-
 udp://torrentclub.online:54123/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
